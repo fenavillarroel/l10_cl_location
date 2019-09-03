@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_res_country_provincias,access_res_country_provincias,model_res_country_provincias,base.group_user,1,0,0,0
+access_res_country_region,access_res_country_region,model_res_country_region,base.group_user,1,0,0,0

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+        <data noupdate='1'>
+                <record id="CL011" model="res.country.provincias"><field name="name">Iquique</field><field name="code">CL011</field><field name="id_region" ref="CL1" /></record>
+                <record id="CL014" model="res.country.provincias"><field name="name">Tamarugal</field><field name="code">CL014</field><field name="id_region" ref="CL1" /></record>
+                <record id="CL021" model="res.country.provincias"><field name="name">Antofagasta</field><field name="code">CL021</field><field name="id_region" ref="CL2" /></record>
+                <record id="CL022" model="res.country.provincias"><field name="name">El Loa</field><field name="code">CL022</field><field name="id_region" ref="CL2" /></record>
+                <record id="CL023" model="res.country.provincias"><field name="name">Tocopilla</field><field name="code">CL023</field><field name="id_region" ref="CL2" /></record>
+                <record id="CL031" model="res.country.provincias"><field name="name">Copiapó</field><field name="code">CL031</field><field name="id_region" ref="CL3" /></record>
+                <record id="CL032" model="res.country.provincias"><field name="name">Chañaral</field><field name="code">CL032</field><field name="id_region" ref="CL3" /></record>
+                <record id="CL033" model="res.country.provincias"><field name="name">Huasco</field><field name="code">CL033</field><field name="id_region" ref="CL3" /></record>
+                <record id="CL041" model="res.country.provincias"><field name="name">Elqui</field><field name="code">CL041</field><field name="id_region" ref="CL4" /></record>
+                <record id="CL042" model="res.country.provincias"><field name="name">Choapa</field><field name="code">CL042</field><field name="id_region" ref="CL4" /></record>
+                <record id="CL043" model="res.country.provincias"><field name="name">Limarí</field><field name="code">CL043</field><field name="id_region" ref="CL4" /></record>
+                <record id="CL051" model="res.country.provincias"><field name="name">Valparaíso</field><field name="code">CL051</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL052" model="res.country.provincias"><field name="name">Isla de Pascua</field><field name="code">CL052</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL053" model="res.country.provincias"><field name="name">Los Andes</field><field name="code">CL053</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL054" model="res.country.provincias"><field name="name">Petorca</field><field name="code">CL054</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL055" model="res.country.provincias"><field name="name">Quillota</field><field name="code">CL055</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL056" model="res.country.provincias"><field name="name">San Antonio</field><field name="code">CL056</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL057" model="res.country.provincias"><field name="name">San Felipe</field><field name="code">CL057</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL058" model="res.country.provincias"><field name="name">Marga Marga</field><field name="code">CL058</field><field name="id_region" ref="CL5" /></record>
+                <record id="CL061" model="res.country.provincias"><field name="name">Cachapoal</field><field name="code">CL061</field><field name="id_region" ref="CL6" /></record>
+                <record id="CL062" model="res.country.provincias"><field name="name">Cardenal Caro</field><field name="code">CL062</field><field name="id_region" ref="CL6" /></record>
+                <record id="CL063" model="res.country.provincias"><field name="name">Colchagua</field><field name="code">CL063</field><field name="id_region" ref="CL6" /></record>
+                <record id="CL071" model="res.country.provincias"><field name="name">Talca</field><field name="code">CL071</field><field name="id_region" ref="CL7" /></record>
+                <record id="CL072" model="res.country.provincias"><field name="name">Cauquenes</field><field name="code">CL072</field><field name="id_region" ref="CL7" /></record>
+                <record id="CL073" model="res.country.provincias"><field name="name">Curicó</field><field name="code">CL073</field><field name="id_region" ref="CL7" /></record>
+                <record id="CL074" model="res.country.provincias"><field name="name">Linares</field><field name="code">CL074</field><field name="id_region" ref="CL7" /></record>
+                <record id="CL081" model="res.country.provincias"><field name="name">Concepción</field><field name="code">CL081</field><field name="id_region" ref="CL8" /></record>
+                <record id="CL082" model="res.country.provincias"><field name="name">Arauco</field><field name="code">CL082</field><field name="id_region" ref="CL8" /></record>
+                <record id="CL083" model="res.country.provincias"><field name="name">Biobío</field><field name="code">CL083</field><field name="id_region" ref="CL8" /></record>
+                <record id="CL091" model="res.country.provincias"><field name="name">Cautín</field><field name="code">CL091</field><field name="id_region" ref="CL9" /></record>
+                <record id="CL092" model="res.country.provincias"><field name="name">Malleco</field><field name="code">CL092</field><field name="id_region" ref="CL9" /></record>
+                <record id="CL0101" model="res.country.provincias"><field name="name">Llanquihue</field><field name="code">CL0101</field><field name="id_region" ref="CL10" /></record>
+                <record id="CL0102" model="res.country.provincias"><field name="name">Chiloé</field><field name="code">CL0102</field><field name="id_region" ref="CL10" /></record>
+                <record id="CL0103" model="res.country.provincias"><field name="name">Osorno</field><field name="code">CL0103</field><field name="id_region" ref="CL10" /></record>
+                <record id="CL0104" model="res.country.provincias"><field name="name">Palena</field><field name="code">CL0104</field><field name="id_region" ref="CL10" /></record>
+                <record id="CL0111" model="res.country.provincias"><field name="name">Coyhaique</field><field name="code">CL0111</field><field name="id_region" ref="CL11" /></record>
+                <record id="CL0112" model="res.country.provincias"><field name="name">Aysén</field><field name="code">CL0112</field><field name="id_region" ref="CL11" /></record>
+                <record id="CL0113" model="res.country.provincias"><field name="name">Capitán Prat</field><field name="code">CL0113</field><field name="id_region" ref="CL11" /></record>
+                <record id="CL0114" model="res.country.provincias"><field name="name">General Carrera</field><field name="code">CL0114</field><field name="id_region" ref="CL11" /></record>
+                <record id="CL0121" model="res.country.provincias"><field name="name">Magallanes</field><field name="code">CL0121</field><field name="id_region" ref="CL12" /></record>
+                <record id="CL0122" model="res.country.provincias"><field name="name">Antártica Chilena</field><field name="code">CL0122</field><field name="id_region" ref="CL12" /></record>
+                <record id="CL0123" model="res.country.provincias"><field name="name">Tierra del Fuego</field><field name="code">CL0123</field><field name="id_region" ref="CL12" /></record>
+                <record id="CL0124" model="res.country.provincias"><field name="name">Última Esperanza</field><field name="code">CL0124</field><field name="id_region" ref="CL12" /></record>
+                <record id="CL0131" model="res.country.provincias"><field name="name">Santiago</field><field name="code">CL0131</field><field name="id_region" ref="CL13" /></record>
+                <record id="CL0132" model="res.country.provincias"><field name="name">Cordillera</field><field name="code">CL0132</field><field name="id_region" ref="CL13" /></record>
+                <record id="CL0133" model="res.country.provincias"><field name="name">Chacabuco</field><field name="code">CL0133</field><field name="id_region" ref="CL13" /></record>
+                <record id="CL0134" model="res.country.provincias"><field name="name">Maipo</field><field name="code">CL0134</field><field name="id_region" ref="CL13" /></record>
+                <record id="CL0135" model="res.country.provincias"><field name="name">Melipilla</field><field name="code">CL0135</field><field name="id_region" ref="CL13" /></record>
+                <record id="CL0136" model="res.country.provincias"><field name="name">Talagante</field><field name="code">CL0136</field><field name="id_region" ref="CL13" /></record>
+                <record id="CL0141" model="res.country.provincias"><field name="name">Valdivia</field><field name="code">CL0141</field><field name="id_region" ref="CL14" /></record>
+                <record id="CL0142" model="res.country.provincias"><field name="name">Ranco</field><field name="code">CL0142</field><field name="id_region" ref="CL14" /></record>
+                <record id="CL0151" model="res.country.provincias"><field name="name">Arica</field><field name="code">CL0151</field><field name="id_region" ref="CL15" /></record>
+                <record id="CL0152" model="res.country.provincias"><field name="name">Parinacota</field><field name="code">CL0152</field><field name="id_region" ref="CL15" /></record>
+                <record id="CL0163" model="res.country.provincias"><field name="name">Diguillín</field><field name="code">CL0163</field><field name="id_region" ref="CL16" /></record>
+                <record id="CL0162" model="res.country.provincias"><field name="name">Itata</field><field name="code">CL0162</field><field name="id_region" ref="CL16" /></record>
+                <record id="CL0161" model="res.country.provincias"><field name="name">Punilla</field><field name="code">CL0161</field><field name="id_region" ref="CL16" /></record>
+
+        </data>
+</odoo>

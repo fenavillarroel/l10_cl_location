@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+
+		<record id="res_company_toponyms_form" model="ir.ui.view">
+			<field name="name">res.company</field>
+            <field name="model">res.company</field>
+            <field name="inherit_id" ref="base.view_company_form"/>
+            <field name="arch" type="xml">
+            	<xpath expr="//field[@name='city']" position="replace"/>
+            	<xpath expr="//field[@name='state_id']" position="replace"/>
+            	<xpath expr="//field[@name='zip']" position="replace"/>
+            	<!--<xpath expr="//field[@name='country_id']" position="replace"/>-->
+            	<xpath expr="//field[@name='street2']" position="after">
+					<field name="state_id" class="o_address_state" placeholder="Comuna" style="width: 33%%"  />
+					<field name="city" style="width: 31%%" placeholder="Ciudad" class="o_address_city"  />
+					<field name="zip" placeholder="Código Postal" class="o_address_city"  />
+                	<field name="id_provincia" style="width: 31%%" placeholder="Provincia" class="o_address_city"  />
+
+            	</xpath>
+            	<xpath expr="//field[@name='country_id']" position="before">
+					<field name="id_region" style="width: 31%%" placeholder="Región" class="o_address_city"  />				
+                </xpath>
+			</field>
+		</record>
+
+	</data>
+</odoo> 

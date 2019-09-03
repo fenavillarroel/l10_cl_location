@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+        <data noupdate='1'>
+                <record id="CL1" model="res.country.region"><field name="name">Tarapacá</field><field name="code">CL1</field></record>
+                <record id="CL2" model="res.country.region"><field name="name">Antofagasta</field><field name="code">CL2</field></record>
+                <record id="CL3" model="res.country.region"><field name="name">Atacama</field><field name="code">CL3</field></record>
+                <record id="CL4" model="res.country.region"><field name="name">Coquimbo</field><field name="code">CL4</field></record>
+                <record id="CL5" model="res.country.region"><field name="name">Vaparaíso</field><field name="code">CL5</field></record>
+                <record id="CL6" model="res.country.region"><field name="name">O'Higgins</field><field name="code">CL6</field></record>
+                <record id="CL7" model="res.country.region"><field name="name">Maule</field><field name="code">CL7</field></record>
+                <record id="CL8" model="res.country.region"><field name="name">Biobío</field><field name="code">CL8</field></record>
+                <record id="CL9" model="res.country.region"><field name="name">Araucanía</field><field name="code">CL9</field></record>
+                <record id="CL10" model="res.country.region"><field name="name">Los Lagos</field><field name="code">CL10</field></record>
+                <record id="CL11" model="res.country.region"><field name="name">Aysén</field><field name="code">CL11</field></record>
+                <record id="CL12" model="res.country.region"><field name="name">Magallanes</field><field name="code">CL12</field></record>
+                <record id="CL13" model="res.country.region"><field name="name">Metropolitana</field><field name="code">CL13</field></record>
+                <record id="CL14" model="res.country.region"><field name="name">Ríos</field><field name="code">CL14</field></record>
+                <record id="CL15" model="res.country.region"><field name="name">Arica y Parinacota</field><field name="code">CL15</field></record>
+                <record id="CL16" model="res.country.region"><field name="name">Ñuble</field><field name="code">CL16</field></record>
+        </data>
+</odoo>
+
